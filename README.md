@@ -29,4 +29,5 @@
 ## 📫 Contato:
 
 - GitHub: https://github.com/mssoaress
+- Linkedin: https://www.linkedin.com/in/marcos-soares-00b3143b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Instagram: ms_soaress
