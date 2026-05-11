@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Marcos%20Soares&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a0aec0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1a3e,60:0d1b4b,100:0a0a1a&height=220&section=header&text=Marcos%20Soares&fontSize=60&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=7c9ef5&animation=fadeIn&stroke=3B82F6&strokeWidth=1" />
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplica%C3%A7%C3%B5es+Web;Estudante+de+Engenharia+de+Software)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplicacoes+Web;Estudante+de+Ciencia+da+Computacao)
 
 <br/>
 
@@ -66,13 +66,20 @@
 <div align="center">
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mssoaress&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&ring_color=3B82F6"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssoaress&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9"/>
+<a href="https://github.com/mssoaress">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mssoaress&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br" />
+</a>
+<a href="https://github.com/mssoaress">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssoaress&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&locale=pt-br" />
+</a>
 
 <br/><br/>
 
-<img width="480" src="https://streak-stats.demolab.com/?user=mssoaress&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&dates=6e7681&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
+<img width="500" src="https://streak-stats.demolab.com/?user=mssoaress&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&dates=6e7681&locale=pt_BR" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mssoaress&theme=tokyonight" />
 
 </div>
 
@@ -109,6 +116,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a3e,100:0d0d1a&height=120&section=footer&animation=fadeIn"/>
 
 </div>
