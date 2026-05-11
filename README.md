@@ -22,29 +22,28 @@
 
 ## 🚀 Sobre Mim
 
-💻 Full Stack Developer focado em construir aplicações web modernas e escaláveis.
+<div align="center">
+
+💻 **Full Stack Developer** focado em construir aplicações web modernas e escaláveis para clientes reais.
+
+</div>
 
 <br/>
 
-<table>
-<tr>
-<td>⚙️</td><td><strong>Desenvolvedor focado em Backend</strong></td>
-</tr>
-<tr>
-<td>🌐</td><td><strong>Sólida base em Frontend</strong></td>
-</tr>
-<tr>
-<td>📚</td><td>Estudando <strong>Engenharia de Software</strong> e <strong>Estruturas de Dados</strong></td>
-</tr>
-<tr>
-<td>🧠</td><td>Interesse em <strong>arquitetura limpa</strong>, performance e UI</td>
-</tr>
-<tr>
-<td>🚀</td><td>Construindo projetos reais com <strong>Java</strong>, <strong>Node.js</strong> e <strong>React</strong></td>
-</tr>
-</table>
+<div align="center">
+
+| | | |
+|:---:|:---|:---:|:---|
+| ⚙️ | **Foco em Backend** — lógica de negócio, APIs e banco de dados | 🌐 | **Base sólida em Frontend** — interfaces responsivas e mobile-first |
+| 📚 | **Ciência da Computação** — UniNassau, Campina Grande PB | 🧠 | **Arquitetura limpa**, performance e boas práticas |
+| 🔥 | **Firebase specialist** — Auth, Firestore, Storage em produção | 🚀 | Projetos reais entregues com **Java**, **Node.js** e **JavaScript** |
+| 🎨 | Co-fundador da **Neon Rise Agência** de design | 📦 | Deploy via **GitHub Pages**, dev local no **VS Code** |
+
+</div>
 
 <br/>
+
+
 
 ---
 
