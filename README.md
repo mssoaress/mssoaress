@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1a3e,60:0d1b4b,100:0a0a1a&height=220&section=header&text=Marcos%20Soares&fontSize=60&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=7c9ef5&animation=fadeIn&stroke=3B82F6&strokeWidth=1" />
+
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplicacoes+Web;Estudante+de+Ciencia+da+Computacao)
