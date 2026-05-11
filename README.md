@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1a3e,60:0d1b4b,100:0a0a1a&height=220&section=header&text=Marcos%20Soares&fontSize=60&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=7c9ef5&animation=fadeIn&stroke=3B82F6&strokeWidth=1" />
+
 
 <br/>
 
@@ -65,9 +65,6 @@
 
 <div align="center">
 <br/>
-
-<img width="500" src="https://streak-stats.demolab.com/?user=mssoaress&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&dates=6e7681&locale=pt_BR" />
-
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mssoaress&theme=tokyonight" />
@@ -107,6 +104,5 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a3e,100:0d0d1a&height=120&section=footer&animation=fadeIn"/>
 
 </div>
