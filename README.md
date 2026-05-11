@@ -44,7 +44,7 @@
     <td>🚀 Projetos reais com <strong>Java</strong>, <strong>Node.js</strong> e <strong>JavaScript</strong></td>
   </tr>
   <tr>
-    <td>🎨 Co-fundador da <strong>Neon Rise Agência</strong></td>
+    <td>🎨 Experiência com Design de Aplicações WEB</strong></td>
     <td>📦 Deploy via <strong>GitHub Pages</strong> · Dev no <strong>VS Code</strong></td>
   </tr>
 </table>
