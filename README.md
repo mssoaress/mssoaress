@@ -44,8 +44,8 @@
     <td>🚀 Projetos reais com <strong>Java</strong>, <strong>Node.js</strong> e <strong>JavaScript</strong></td>
   </tr>
   <tr>
-    <td>🎨 Experiência com Design de Aplicações WEB</strong></td>
-    <td>📦 Deploy via <strong>GitHub Pages</strong> · Dev no <strong>VS Code</strong></td>
+    <td>🎨 Experiência com <strong>Design</strong> de Aplicações WEB</strong></td>
+    <td>📦 Deploy via <strong>GitHub, Vercel</strong> · Dev no <strong>VS Code</strong></td>
   </tr>
 </table>
 
