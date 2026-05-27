@@ -4,8 +4,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ff638&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplicacoes+Web;Estudante+de+Ciencia+da+Computacao
-Sotfware+Engineer;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ff638&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplicacoes+Web;Estudante+de+Ciencia+da+Computacao;Software+Engineer;)
 
 <br/>
 
