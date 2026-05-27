@@ -76,7 +76,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mssoaress&theme=dark" />
 
-![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mssoaress&theme=dark)
+![Status de Commits](https://github-readme-streak-stats.herokuapp.com/?user=mssoaress&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mssoaress&layout=compact&theme=dark)
 
 </div>
 
