@@ -79,7 +79,7 @@
 
 <br/><br/>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mssoaress&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mssoaress&layout=compact&theme=dark&langs_count=6)
 
 </div>
 
