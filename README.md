@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ff638&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplicacoes+Web;Estudante+de+Ciencia+da+Computacao;Software+Engineer;)
@@ -31,22 +29,22 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td>⚙️ <strong>Foco em Backend</strong> — APIs, lógica e banco de dados</td>
-    <td>🌐 <strong>Base sólida em Frontend</strong> — interfaces mobile-first</td>
-  </tr>
-  <tr>
-    <td>📚 Cursando <strong>Ciência da Computação</strong> — UniNassau, CG/PB</td>
-    <td>🧠 Interesse em <strong>arquitetura limpa</strong> e performance</td>
-  </tr>
-  <tr>
-    <td>🔥 <strong>Firebase</strong> em produção — Auth, Firestore, Storage</td>
-    <td>🚀 Projetos reais com <strong>Java</strong>, <strong>Node.js</strong> e <strong>JavaScript</strong></td>
-  </tr>
-  <tr>
-    <td>🎨 Experiência com <strong>Design</strong> de Aplicações WEB</strong></td>
-    <td>📦 Deploy via <strong>GitHub, Vercel</strong> · Dev no <strong>VS Code</strong></td>
-  </tr>
+<tr>
+<td>⚙️ <strong>Foco em Backend</strong> — APIs, lógica e banco de dados</td>
+<td>🌐 <strong>Base sólida em Frontend</strong> — interfaces mobile-first</td>
+</tr>
+<tr>
+<td>📚 Cursando <strong>Ciência da Computação</strong> — UniNassau, CG/PB</td>
+<td>🧠 Interesse em <strong>arquitetura limpa</strong> e performance</td>
+</tr>
+<tr>
+<td>🔥 <strong>Firebase</strong> em produção — Auth, Firestore, Storage</td>
+<td>🚀 Projetos reais com <strong>Java</strong>, <strong>Node.js</strong> e <strong>JavaScript</strong></td>
+</tr>
+<tr>
+<td>🎨 Experiência com <strong>Design</strong> de Aplicações WEB</td>
+<td>📦 Deploy via <strong>GitHub, Vercel</strong> · Dev no <strong>VS Code</strong></td>
+</tr>
 </table>
 
 </div>
@@ -72,11 +70,15 @@
 
 <div align="center">
 <br/>
-<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mssoaress&theme=dark" />
 
+<br/><br/>
+
 ![Status de Commits](https://github-readme-streak-stats.herokuapp.com/?user=mssoaress&theme=dark)
+
+<br/><br/>
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mssoaress&layout=compact&theme=dark)
 
 </div>
@@ -113,6 +115,5 @@
 ### Código • Aprendizado • Construção • Repetição
 
 <br/>
-
 
 </div>
