@@ -72,15 +72,15 @@
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mssoaress&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img src="https://img.shields.io/github/followers/mssoaress?style=for-the-badge&color=8FF638&labelColor=111111" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmssoaress&color=8FF638&labelColor=111111" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/mssoaress?style=for-the-badge&color=8FF638&labelColor=111111&affiliations=OWNER" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mssoaress&theme=dark&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssoaress&layout=compact&theme=dark&hide_border=true" />
+<img src="https://raw.githubusercontent.com/mssoaress/mssoaress/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
 
 </div>
 
