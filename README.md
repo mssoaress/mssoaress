@@ -1,8 +1,7 @@
 <div align="center">
-
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ff638&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplicacoes+Web;Estudante+de+Ciencia+da+Computacao;Software+Engineer;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8FF638&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplicacoes+Web;Estudante+de+Ciencia+da+Computacao;Software+Engineer;)
 
 <br/>
 
@@ -21,7 +20,9 @@
 ## 🚀 Sobre Mim
 
 <div align="center">
+
 💻 <strong>Full Stack Developer</strong> focado em construir aplicações web modernas e escaláveis para clientes reais.
+
 </div>
 
 <br/>
@@ -71,15 +72,15 @@
 <div align="center">
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mssoaress&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=mssoaress&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 
 <br/><br/>
 
-![Status de Commits](https://github-readme-streak-stats.herokuapp.com/?user=mssoaress&theme=dark)
+<img src="https://streak-stats.demolab.com?user=mssoaress&theme=dark&hide_border=true" />
 
 <br/><br/>
 
-![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mssoaress&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssoaress&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
@@ -111,9 +112,5 @@
 ---
 
 <div align="center">
-
-### Código • Aprendizado • Construção • Repetição
-
-<br/>
-
+<h3>Código • Aprendizado • Construção • Repetição</h3>
 </div>
