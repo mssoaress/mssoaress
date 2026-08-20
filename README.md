@@ -1,116 +1,144 @@
 <div align="center">
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8FF638&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Desenvolvedor+Backend;Construindo+Aplicacoes+Web;Estudante+de+Ciencia+da+Computacao;Software+Engineer;)
 
 <br/>
 
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+<h1>Marcos Soares</h1>
+<h3>Full Stack Developer · Backend-focused</h3>
+
+<p>Building production web systems — real-time ordering platforms, booking systems, and admin dashboards for live businesses.</p>
+
+<br/>
+
+<a href="https://github.com/mssoaress"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/marcos-soares-00b3143b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:marcossoaress007s@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=8FF638" /></a>
+
+<br/>
 
 </div>
 
 <br/>
 
----
+## Engineering Profile
 
-## 🚀 Sobre Mim
-
-<div align="center">
-
-💻 <strong>Full Stack Developer</strong> focado em construir aplicações web modernas e escaláveis para clientes reais.
-
-</div>
+Backend-first full stack development: data-driven web applications, real-time systems on Firebase/Firestore, and deployment on Vercel. Computer Science student (UniNassau), building and shipping production software for real clients alongside coursework.
 
 <br/>
 
-<div align="center">
+## Tech Stack
 
 <table>
 <tr>
-<td>⚙️ <strong>Foco em Backend</strong> — APIs, lógica e banco de dados</td>
-<td>🌐 <strong>Base sólida em Frontend</strong> — interfaces mobile-first</td>
+<td valign="top" width="20%"><strong>Languages</strong></td>
+<td>Java · JavaScript · Python</td>
 </tr>
 <tr>
-<td>📚 Cursando <strong>Ciência da Computação</strong> — UniNassau, CG/PB</td>
-<td>🧠 Interesse em <strong>arquitetura limpa</strong> e performance</td>
+<td valign="top"><strong>Backend</strong></td>
+<td>Node.js · REST APIs · Firebase (Auth, Firestore, Storage, Hosting)</td>
 </tr>
 <tr>
-<td>🔥 <strong>Firebase</strong> em produção — Auth, Firestore, Storage</td>
-<td>🚀 Projetos reais com <strong>Java</strong>, <strong>Node.js</strong> e <strong>JavaScript</strong></td>
+<td valign="top"><strong>Frontend</strong></td>
+<td>React · Vite · HTML5 · CSS3 · Responsive/mobile-first UI</td>
 </tr>
 <tr>
-<td>🎨 Experiência com <strong>Design</strong> de Aplicações WEB</td>
-<td>📦 Deploy via <strong>GitHub, Vercel</strong> · Dev no <strong>VS Code</strong></td>
+<td valign="top"><strong>Data</strong></td>
+<td>Firestore (real-time) · PostgreSQL</td>
+</tr>
+<tr>
+<td valign="top"><strong>Infrastructure</strong></td>
+<td>Vercel · Firebase Hosting · Git · GitHub</td>
 </tr>
 </table>
 
+<div align="center">
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,react,html,css,firebase,postgres,git,github,vscode,figma&theme=dark&perline=6" alt="Technology icons: Java, JavaScript, Node.js, React, HTML, CSS, Firebase, PostgreSQL, Git, GitHub, VS Code, Figma" />
 </div>
 
 <br/>
 
----
+## Featured Projects
 
-# 🛠 Tecnologias
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Mikami Sushi — Admin System**
+
+Multi-screen restaurant management PWA: table tracking, live kitchen order queue, and billing/reporting, synced in real time across devices via Firestore.
+
+`HTML` `CSS` `JavaScript` `Firebase Firestore` `Chart.js`
+
+[Repository](https://github.com/mssoaress/Mikami-Sushi-Admin) · [Live Demo](https://mikamisushiadmin.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**Mikami Sushi — Ordering Site**
+
+Customer-facing ordering interface, rebuilt on React + Vite for a component-based architecture and faster iteration.
+
+`React` `Vite` `JavaScript`
+
+[Repository](https://github.com/mssoaress/Mikami-Sushi) · [Live Demo](https://mikami-sushi.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Studio Feran — Booking System**
+
+Client-facing appointment scheduling system for a single-barber shop, backed by Firebase for persistence and availability logic.
+
+`HTML` `CSS` `JavaScript` `Firebase`
+
+[Repository](https://github.com/mssoaress/studioferan-cliente) · [Live Demo](https://studioferan-cliente.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**MotaLab — Loyalty Card System**
+
+Web-based loyalty tracking system for a lab client, with Firestore-backed rules for data access.
+
+`HTML` `CSS` `JavaScript` `Firebase`
+
+[Repository](https://github.com/mssoaress/mota-lab)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,react,html,css,postgres,docker,git,github,vscode,figma&theme=dark&perline=6" />
-
-</div>
-
-<br/>
-
----
-
-# 📊 Estatísticas GitHub
-
-<div align="center">
-<br/>
-
-<img src="https://img.shields.io/github/followers/mssoaress?style=for-the-badge&color=8FF638&labelColor=111111" />
+<img src="https://img.shields.io/github/followers/mssoaress?style=for-the-badge&color=8FF638&labelColor=111111" alt="GitHub followers count" />
 &nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmssoaress&color=8FF638&labelColor=111111" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/mssoaress?style=for-the-badge&color=8FF638&labelColor=111111&affiliations=OWNER" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmssoaress&color=8FF638&labelColor=111111" alt="Public repository count" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/mssoaress/mssoaress/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
+<img src="https://raw.githubusercontent.com/mssoaress/mssoaress/output/github-contribution-grid-snake.svg" alt="Contribution activity graph" />
+
+<sub>Generated from actual commit history via a GitHub Action running in this profile's repository.</sub>
 
 </div>
 
 <br/>
 
----
+## Currently Building
 
-# 🌎 Contato
-
-<div align="center">
-<br/>
-
-<a href="https://github.com/mssoaress" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/marcos-soares-00b3143b3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:marcossoaress007s@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
+- Real-time, Firestore-backed operational tools for small businesses (ordering, scheduling, inventory)
+- Migrating client-facing frontends from vanilla JS to React/Vite for maintainability
+- REST API design and backend architecture as coursework and client work converge
 
 <br/>
 
----
+## Contact
 
-<div align="center">
-<h3>Código • Aprendizado • Construção • Repetição</h3>
-</div>
+[LinkedIn](https://www.linkedin.com/in/marcos-soares-00b3143b3/) · [GitHub](https://github.com/mssoaress) · [marcossoaress007s@gmail.com](mailto:marcossoaress007s@gmail.com)
