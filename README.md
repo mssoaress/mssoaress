@@ -123,8 +123,11 @@ Web-based loyalty tracking system for a lab client, with Firestore-backed rules 
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/mssoaress/mssoaress/output/github-contribution-grid-snake.svg" alt="Contribution activity graph" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaynan-CC/kaynan-CC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaynan-CC/kaynan-CC/output/github-contribution-grid-snake.svg">
+  <img alt="cobrinha" src="https://raw.githubusercontent.com/kaynan-CC/kaynan-CC/output/github-contribution-grid-snake.svg">
+</picture>
 <sub>Generated from actual commit history via a GitHub Action running in this profile's repository.</sub>
 
 </div>
