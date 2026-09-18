@@ -57,60 +57,6 @@ Backend-first full stack development: data-driven web applications, real-time sy
 
 <br/>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Mikami Sushi — Admin System**
-
-Multi-screen restaurant management PWA: table tracking, live kitchen order queue, and billing/reporting, synced in real time across devices via Firestore.
-
-`HTML` `CSS` `JavaScript` `Firebase Firestore` `Chart.js`
-
-[Repository](https://github.com/mssoaress/Mikami-Sushi-Admin) · [Live Demo](https://mikamisushiadmin.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-**Mikami Sushi — Ordering Site**
-
-Customer-facing ordering interface, rebuilt on React + Vite for a component-based architecture and faster iteration.
-
-`React` `Vite` `JavaScript`
-
-[Repository](https://github.com/mssoaress/Mikami-Sushi) · [Live Demo](https://mikami-sushi.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Studio Feran — Booking System**
-
-Client-facing appointment scheduling system for a single-barber shop, backed by Firebase for persistence and availability logic.
-
-`HTML` `CSS` `JavaScript` `Firebase`
-
-[Repository](https://github.com/mssoaress/studioferan-cliente) · [Live Demo](https://studioferan-cliente.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-**MotaLab — Loyalty Card System**
-
-Web-based loyalty tracking system for a lab client, with Firestore-backed rules for data access.
-
-`HTML` `CSS` `JavaScript` `Firebase`
-
-[Repository](https://github.com/mssoaress/mota-lab)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## GitHub Activity
 
