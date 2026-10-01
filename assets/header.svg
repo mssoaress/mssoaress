@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Marcos Soares — Full Stack Developer</title>
+  <desc id="desc">Backend-focused. Interfaces, APIs e dados. Banner em grafite com detalhes em verde-lima.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse"><stop stop-color="#10171C"/><stop offset=".55" stop-color="#0D1117"/><stop offset="1" stop-color="#15231C"/></linearGradient>
+    <linearGradient id="accent" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#8FF638"/><stop offset=".6" stop-color="#8FF638" stop-opacity=".18"/><stop offset="1" stop-color="#8FF638" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8FF638" stop-opacity=".13"/><stop offset="1" stop-color="#8FF638" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#AFD2B4" stroke-opacity=".055"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="378" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <ellipse cx="1005" cy="155" rx="330" ry="300" fill="url(#glow)"/>
+    <path d="M60 1H1140" stroke="url(#accent)" stroke-width="3"/>
+    <g stroke="#8FF638" stroke-opacity=".14">
+      <path d="M785 0V57L830 102H1200M923 0V48L968 93H1200M1200 282H1100L1060 322H800M1200 312H1130L1085 357H875"/>
+      <circle cx="830" cy="102" r="4" fill="#17251B"/>
+      <circle cx="1060" cy="322" r="4" fill="#17251B"/>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="60" y="47" width="138" height="29" rx="14.5" fill="#8FF638" fill-opacity=".08" stroke="#8FF638" stroke-opacity=".28"/>
+      <text x="78" y="66" font-size="12" font-weight="700" letter-spacing="2" fill="#8FF638">@MSSOARESS</text>
+      <text x="57" y="165" font-size="72" font-weight="700" letter-spacing="-3" fill="#F0F6FC">Marcos Soares<tspan fill="#8FF638">.</tspan></text>
+      <text x="61" y="211" font-size="25" fill="#CDD9E5">Full Stack Developer</text>
+      <text x="61" y="250" font-size="17" letter-spacing="4" fill="#8FF638">BACKEND-FOCUSED</text>
+      <path d="M61 288H680" stroke="#2A373D"/>
+      <text x="61" y="325" font-size="14" letter-spacing="1.5" fill="#9BAEBB">INTERFACES <tspan fill="#54646E">/</tspan> APIs <tspan fill="#54646E">/</tspan> DADOS</text>
+    </g>
+    <g transform="translate(815 98)">
+      <rect x="0" y="0" width="310" height="181" rx="14" fill="#0A1015" stroke="#344D36"/>
+      <path d="M0 37H310" stroke="#233329"/>
+      <circle cx="20" cy="19" r="4" fill="#8FF638"/><circle cx="35" cy="19" r="4" fill="#45613E"/><circle cx="50" cy="19" r="4" fill="#263D29"/>
+      <text x="287" y="23" text-anchor="end" font-family="monospace" font-size="10" fill="#7E9485">developer.ts</text>
+      <g font-family="monospace" font-size="14">
+        <text x="23" y="70" fill="#C7D5E0"><tspan fill="#8FF638">const</tspan> developer = {</text>
+        <text x="39" y="99" fill="#93A6B5">  name: <tspan fill="#D5EABF">'Marcos Soares'</tspan>,</text>
+        <text x="39" y="128" fill="#93A6B5">  focus: <tspan fill="#D5EABF">'backend'</tspan></text>
+        <text x="23" y="157" fill="#C7D5E0">};<tspan fill="#8FF638"> ▋</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="379" rx="22" stroke="#2B3D31"/>
+</svg>
